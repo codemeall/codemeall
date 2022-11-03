@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Abdul+Aziz!+👋;I'm+a+Full+stack+developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Abdul+Aziz!+👋;I'm+a+Full+stack+developer;)
 
 # 💫 About Me:
 - I develop Highly interactive Software application for your Web, Mobile & 
